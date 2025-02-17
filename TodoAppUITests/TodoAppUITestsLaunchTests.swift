@@ -1,13 +1,13 @@
 //
-//  PracticAppUITestsLaunchTests.swift
-//  PracticAppUITests
+//  TodoAppUITestsLaunchTests.swift
+//  TodoAppUITests
 //
 //  Created by Muhammad Riaz on 10/02/2025.
 //
 
 import XCTest
 
-final class PracticAppUITestsLaunchTests: XCTestCase {
+final class TodoAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
